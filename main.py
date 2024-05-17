@@ -73,7 +73,8 @@ if __name__ == "__main__":
     print('\t3. Use "show_phone" to show username phone')
     print('\t4. Use "all" to see all cantacts')
     print('\t5. Use "close" or "exit" to stop work with bot')
-    
+       
+       
 
 
     main()
