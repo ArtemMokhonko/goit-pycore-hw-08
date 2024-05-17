@@ -72,7 +72,10 @@ if __name__ == "__main__":
     print('\t2. Use "change" to change username phone')
     print('\t3. Use "show_phone" to show username phone')
     print('\t4. Use "all" to see all cantacts')
-    print('\t5. Use "close" or "exit" to stop work with bot')
+    print('\t5. Use "add-birthday" to add username birthday')
+    print('\t6. Use "show-birthday" to show username birthday')
+    print('\t7. Use "birthdays" to see the nearest birthday people')
+    print('\t8. Use "close" or "exit" to stop work with bot')
        
        
 
